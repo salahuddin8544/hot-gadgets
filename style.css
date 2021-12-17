@@ -1,0 +1,51 @@
+.container{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.carousel-bg{
+ 
+    padding:0px 50px;
+}
+.carousel-title{
+    color: gray;
+}
+.btn-now{
+    border:none;
+    border-radius: 5px;;
+    background-color:#000;
+    color:#ffff;
+    padding:9px 15px;
+}
+.vertical-img{
+    max-height: 400px;
+    min-height: 200px;
+}
+.img-fluid {
+   
+}
+.see-all a {
+        text-decoration: none;
+        color: #FFC71E;
+        font-size: 16px;
+        font-weight: 700;
+ }
+ .card{
+     border:none;
+     box-shadow: 5px 5px 10px lightgray;
+ }
+ .catego hr{
+     width:150px;
+     height: 15px;
+     margin:0 auto;
+     background-color:blue;
+     border-radius: 5px;
+ }
+ .catego{
+     margin-bottom:40px;
+ }
+ .child-catego img{
+    box-shadow: 5px 5px 10px lightgray;
+    padding:10px;
+    margin:10px;
+    border-radius:8px;
+ }
